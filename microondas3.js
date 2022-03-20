@@ -86,4 +86,4 @@ function microondas(comida, tempo) {
 
 };
 // 1:
-microondas(1,20);
+microondas(1,15);
