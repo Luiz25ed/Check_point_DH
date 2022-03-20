@@ -11,8 +11,8 @@ console.log("-------------------------------------------------------------------
 
 
 
-let tempo  = 28
-let comida = "pipoca"
+let tempo  = 10;
+let comida = 1;
 function microondas (tempo,comida){
 
 
@@ -111,7 +111,7 @@ function microondas (tempo,comida){
 
 };
 
-microondas ();
+microondas (2,24);
 
 
 

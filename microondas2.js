@@ -11,7 +11,7 @@ console.log("-------------------------------------------------------------------
 
 
 let comida = 2;
-let tempo = 8;
+let tempo = 23;
 function microondas(comida, tempo) {
 
                    switch (comida,tempo) {
